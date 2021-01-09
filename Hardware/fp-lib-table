@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name Libraries)(type KiCad)(uri D:/Documents/GitHub/brewpiless-board/Hardware/Libraries/footprints/esp32_devkit_v1_doit.pretty)(options "")(descr ""))
+  (lib (name esp32_devkit_v1_doit)(type KiCad)(uri ${KIPRJMOD}/Libraries/footprints/esp32_devkit_v1_doit.pretty)(options "")(descr ""))
+)

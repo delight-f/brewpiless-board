@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name esp32_devkit_v1_doit)(type Legacy)(uri ${KIPRJMOD}/Libraries/esp32_devkit_v1_doit.lib)(options "")(descr ""))
+  (lib (name brewpilessboardsymbols)(type Legacy)(uri ${KIPRJMOD}/Libraries/brewpilessboardsymbols.lib)(options "")(descr ""))
+  (lib (name LCD-20X4B)(type Legacy)(uri ${KIPRJMOD}/Libraries/footprints/LCD-20X4B.lib)(options "")(descr ""))
+)
