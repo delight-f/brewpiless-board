@@ -1,4 +1,4 @@
-18639710840531240
+18644541367872182
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -56081,8 +56081,8 @@ Libraries
 
 
 0
-4
-0
+12
+8
 Libraries
 CONV_HLK-5M05
 
@@ -82072,8 +82072,8 @@ esp32_devkit_v1_doit
 
 
 0
-4
-0
+12
+8
 esp32_devkit_v1_doit
 CONV_HLK-5M05
 
@@ -82095,3 +82095,24 @@ ESPWROOM32, ESP32, 30 GPIOs version
 0
 30
 30
+footprints
+CONV_HLK-PM03
+
+
+0
+4
+4
+footprints
+LCD_LCD-20X4B
+
+
+0
+20
+20
+footprints
+danger
+
+
+0
+0
+0
